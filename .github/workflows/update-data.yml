@@ -1,0 +1,33 @@
+name: Update LNFA Data
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # jeden Tag um 06:00
+  workflow_dispatch:      # manuell starten möglich
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository herunterladen
+        uses: actions/checkout@v4
+
+      - name: Python installieren
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dependencies installieren
+        run: pip install -r requirements.txt
+
+      - name: Scraper ausführen
+        run: python scraper.py
+
+      - name: Änderungen committen
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data.json
+          git commit -m "Auto update data" || echo "Keine Änderungen"
+          git push
