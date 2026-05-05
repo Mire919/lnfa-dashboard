@@ -2,7 +2,7 @@ name: Update LNFA Data
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # jeden Tag um 06:00
+    - cron: "0 6 * * 0"   # jeden Sonntag um 6:00 UTC
   workflow_dispatch:      # manuell starten möglich
 
 jobs:
