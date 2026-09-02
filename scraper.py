@@ -8,7 +8,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-LEAGUE_URL = "https://fsr.sportlomo.com/league/208470/"
+LEAGUE_URL = "https://fsr.sportlomo.com/league/218704/"
 OUTPUT_FILE = Path("data.json")
 DEBUG_LINES_FILE = Path("sportlomo_debug_lines.txt")
 
