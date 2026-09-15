@@ -1,7 +1,7 @@
 {
   "source": "https://fsr.sportlomo.com/league/218704/",
   "league": "LNFA",
-  "updated_at": "2026-09-14T22:11:41",
+  "updated_at": "2026-09-15T21:49:11",
   "teams": [
     {
       "team": "Switzers/Palezieux",
@@ -134,32 +134,6 @@
       "position": 5
     },
     {
-      "team": "Rugby Club Luzern Dangels",
-      "short": "Luzern Dangels",
-      "played": 2,
-      "wins": 0,
-      "losses": 2,
-      "draws": 0,
-      "points_for": 26,
-      "points_against": 76,
-      "difference": -50,
-      "tries_for": 4,
-      "tries_against": 14,
-      "tries_difference": -10,
-      "table_points": 1,
-      "win_rate": 0.0,
-      "points_for_per_game": 13.0,
-      "points_against_per_game": 38.0,
-      "net_rating": -25.0,
-      "try_difference_per_game": -5.0,
-      "home_wins": 0,
-      "home_losses": 0,
-      "away_wins": 0,
-      "away_losses": 1,
-      "form": "L",
-      "position": 6
-    },
-    {
       "team": "Rugby Club CERN Meyrin St. Genis Wildcats",
       "short": "CERN MSG Wildcats",
       "played": 2,
@@ -182,6 +156,32 @@
       "home_losses": 1,
       "away_wins": 0,
       "away_losses": 0,
+      "form": "L",
+      "position": 6
+    },
+    {
+      "team": "Rugby Club Luzern Dangels",
+      "short": "Luzern Dangels",
+      "played": 2,
+      "wins": 0,
+      "losses": 2,
+      "draws": 0,
+      "points_for": 26,
+      "points_against": 76,
+      "difference": -50,
+      "tries_for": 4,
+      "tries_against": 14,
+      "tries_difference": -10,
+      "table_points": 0,
+      "win_rate": 0.0,
+      "points_for_per_game": 13.0,
+      "points_against_per_game": 38.0,
+      "net_rating": -25.0,
+      "try_difference_per_game": -5.0,
+      "home_wins": 0,
+      "home_losses": 0,
+      "away_wins": 0,
+      "away_losses": 1,
       "form": "L",
       "position": 7
     },
@@ -505,11 +505,11 @@
     {
       "date": "07/11/2026",
       "time": "12:00",
-      "home": "Luzern Dangels",
-      "away": "Nyon Rugby Mermigans",
-      "home_full": "Luzern Dangels",
-      "away_full": "Nyon Rugby Mermigans",
-      "venue": "Allmend Luzern"
+      "home": "Nyon Rugby Mermigans",
+      "away": "Luzern Dangels",
+      "home_full": "Nyon Rugby Mermigans",
+      "away_full": "Luzern Dangels",
+      "venue": "Colovray - Centre Sportif"
     },
     {
       "date": "07/11/2026",
