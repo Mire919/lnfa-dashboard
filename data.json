@@ -1,7 +1,7 @@
 {
   "source": "https://fsr.sportlomo.com/league/218704/",
   "league": "LNFA",
-  "updated_at": "2026-09-17T21:50:01",
+  "updated_at": "2026-09-18T21:21:18",
   "teams": [
     {
       "team": "Switzers/Palezieux",
@@ -321,15 +321,6 @@
       "home_full": "GC Zurich Valkyries",
       "away_full": "Entente Red Wolves",
       "venue": "Allmend Brunau Zurich"
-    },
-    {
-      "date": "19/09/2026",
-      "time": "12:00",
-      "home": "Luzern Dangels",
-      "away": "CERN MSG Wildcats",
-      "home_full": "Luzern Dangels",
-      "away_full": "CERN MSG Wildcats",
-      "venue": "Allmend Luzern"
     },
     {
       "date": "19/09/2026",
@@ -672,6 +663,15 @@
       "home_full": "Switzers/Palezieux",
       "away_full": "Basel RFC W",
       "venue": "Centre sportif de Vessy"
+    },
+    {
+      "date": "17/04/2027",
+      "time": "12:00",
+      "home": "Luzern Dangels",
+      "away": "CERN MSG Wildcats",
+      "home_full": "Luzern Dangels",
+      "away_full": "CERN MSG Wildcats",
+      "venue": "Allmend Luzern"
     },
     {
       "date": "24/04/2027",
