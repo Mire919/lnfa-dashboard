@@ -1,7 +1,7 @@
 {
   "source": "https://fsr.sportlomo.com/league/218704/",
   "league": "LNFA",
-  "updated_at": "2026-09-28T23:35:47",
+  "updated_at": "2026-09-29T22:45:19",
   "teams": [
     {
       "team": "Switzers/Palezieux",
@@ -357,21 +357,21 @@
   "fixtures": [
     {
       "date": "03/10/2026",
-      "time": "00:00",
-      "home": "CERN MSG Wildcats",
-      "away": "Basel RFC W",
-      "home_full": "CERN MSG Wildcats",
-      "away_full": "Basel RFC W",
-      "venue": "Meyrin"
-    },
-    {
-      "date": "03/10/2026",
       "time": "13:00",
       "home": "Entente Red Wolves",
       "away": "Nyon Rugby Mermigans",
       "home_full": "Entente Red Wolves",
       "away_full": "Nyon Rugby Mermigans",
       "venue": "Grosse Allmend Bern"
+    },
+    {
+      "date": "03/10/2026",
+      "time": "15:00",
+      "home": "CERN MSG Wildcats",
+      "away": "Basel RFC W",
+      "home_full": "CERN MSG Wildcats",
+      "away_full": "Basel RFC W",
+      "venue": "Meyrin"
     },
     {
       "date": "03/10/2026",
