@@ -1,7 +1,7 @@
 {
   "source": "https://fsr.sportlomo.com/league/218704/",
   "league": "LNFA",
-  "updated_at": "2026-10-25T21:18:14",
+  "updated_at": "2026-10-26T22:56:01",
   "teams": [
     {
       "team": "Switzers/Palezieux",
@@ -525,21 +525,21 @@
   "fixtures": [
     {
       "date": "31/10/2026",
-      "time": "00:00",
-      "home": "CERN MSG Wildcats",
-      "away": "Albaladejo W",
-      "home_full": "CERN MSG Wildcats",
-      "away_full": "Albaladejo W",
-      "venue": "Meyrin"
-    },
-    {
-      "date": "31/10/2026",
       "time": "12:00",
       "home": "Luzern Dangels",
       "away": "Basel RFC W",
       "home_full": "Luzern Dangels",
       "away_full": "Basel RFC W",
       "venue": "Allmend Luzern"
+    },
+    {
+      "date": "31/10/2026",
+      "time": "14:00",
+      "home": "CERN MSG Wildcats",
+      "away": "Albaladejo W",
+      "home_full": "CERN MSG Wildcats",
+      "away_full": "Albaladejo W",
+      "venue": "Meyrin"
     },
     {
       "date": "31/10/2026",
