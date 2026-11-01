@@ -1,7 +1,7 @@
 {
   "source": "https://fsr.sportlomo.com/league/218704/",
   "league": "LNFA",
-  "updated_at": "2026-10-31T22:02:01",
+  "updated_at": "2026-11-01T22:30:59",
   "teams": [
     {
       "team": "Switzers/Palezieux",
@@ -108,30 +108,56 @@
       "position": 4
     },
     {
+      "team": "Grasshopper Club Zurich Rugby Section Valkyries",
+      "short": "GC Zurich Valkyries",
+      "played": 7,
+      "wins": 2,
+      "losses": 5,
+      "draws": 0,
+      "points_for": 142,
+      "points_against": 242,
+      "difference": -100,
+      "tries_for": 24,
+      "tries_against": 39,
+      "tries_difference": -15,
+      "table_points": 0,
+      "win_rate": 28.6,
+      "points_for_per_game": 20.29,
+      "points_against_per_game": 34.57,
+      "net_rating": -14.29,
+      "try_difference_per_game": -2.14,
+      "home_wins": 1,
+      "home_losses": 3,
+      "away_wins": 0,
+      "away_losses": 2,
+      "form": "LLLWL",
+      "position": 5
+    },
+    {
       "team": "Nyon Rugby Club Mermigans",
       "short": "Nyon Rugby Club Mermigans",
-      "played": 6,
+      "played": 7,
       "wins": 2,
-      "losses": 4,
+      "losses": 5,
       "draws": 0,
-      "points_for": 126,
-      "points_against": 213,
-      "difference": -87,
-      "tries_for": 23,
-      "tries_against": 33,
-      "tries_difference": -10,
+      "points_for": 147,
+      "points_against": 275,
+      "difference": -128,
+      "tries_for": 26,
+      "tries_against": 43,
+      "tries_difference": -17,
       "table_points": 0,
-      "win_rate": 33.3,
+      "win_rate": 28.6,
       "points_for_per_game": 21.0,
-      "points_against_per_game": 35.5,
-      "net_rating": -14.5,
-      "try_difference_per_game": -1.67,
+      "points_against_per_game": 39.29,
+      "net_rating": -18.29,
+      "try_difference_per_game": -2.43,
       "home_wins": 0,
       "home_losses": 0,
       "away_wins": 0,
       "away_losses": 0,
       "form": "",
-      "position": 5
+      "position": 6
     },
     {
       "team": "Rugby Club CERN Meyrin St. Genis Wildcats",
@@ -157,32 +183,6 @@
       "away_wins": 0,
       "away_losses": 2,
       "form": "LWLLL",
-      "position": 6
-    },
-    {
-      "team": "Grasshopper Club Zurich Rugby Section Valkyries",
-      "short": "GC Zurich Valkyries",
-      "played": 6,
-      "wins": 1,
-      "losses": 5,
-      "draws": 0,
-      "points_for": 80,
-      "points_against": 221,
-      "difference": -141,
-      "tries_for": 14,
-      "tries_against": 36,
-      "tries_difference": -22,
-      "table_points": 0,
-      "win_rate": 16.7,
-      "points_for_per_game": 13.33,
-      "points_against_per_game": 36.83,
-      "net_rating": -23.5,
-      "try_difference_per_game": -3.67,
-      "home_wins": 1,
-      "home_losses": 3,
-      "away_wins": 0,
-      "away_losses": 2,
-      "form": "LLLWL",
       "position": 7
     },
     {
@@ -213,6 +213,20 @@
     }
   ],
   "results": [
+    {
+      "date": "01/11/2026",
+      "time": "12:00",
+      "home": "Nyon Rugby Mermigans",
+      "away": "GC Zurich Valkyries",
+      "home_full": "Nyon Rugby Mermigans",
+      "away_full": "GC Zurich Valkyries",
+      "home_score": 21,
+      "away_score": 62,
+      "home_tries": 3,
+      "away_tries": 10,
+      "score": "21 - 62",
+      "venue": "Colovray - Centre Sportif"
+    },
     {
       "date": "31/10/2026",
       "time": "15:00",
@@ -328,20 +342,6 @@
     {
       "date": "10/10/2026",
       "time": "12:00",
-      "home": "GC Zurich Valkyries",
-      "away": "CERN MSG Wildcats",
-      "home_full": "GC Zurich Valkyries",
-      "away_full": "CERN MSG Wildcats",
-      "home_score": 27,
-      "away_score": 21,
-      "home_tries": 5,
-      "away_tries": 3,
-      "score": "27 - 21",
-      "venue": "Allmend Brunau Zurich"
-    },
-    {
-      "date": "10/10/2026",
-      "time": "12:00",
       "home": "Luzern Dangels",
       "away": "Entente Red Wolves",
       "home_full": "Luzern Dangels",
@@ -366,6 +366,20 @@
       "away_tries": 4,
       "score": "28 - 27",
       "venue": "Pruntrutermatte"
+    },
+    {
+      "date": "10/10/2026",
+      "time": "12:00",
+      "home": "GC Zurich Valkyries",
+      "away": "CERN MSG Wildcats",
+      "home_full": "GC Zurich Valkyries",
+      "away_full": "CERN MSG Wildcats",
+      "home_score": 27,
+      "away_score": 21,
+      "home_tries": 5,
+      "away_tries": 3,
+      "score": "27 - 21",
+      "venue": "Allmend Brunau Zurich"
     },
     {
       "date": "04/10/2026",
@@ -565,15 +579,6 @@
     }
   ],
   "fixtures": [
-    {
-      "date": "01/11/2026",
-      "time": "12:00",
-      "home": "Nyon Rugby Mermigans",
-      "away": "GC Zurich Valkyries",
-      "home_full": "Nyon Rugby Mermigans",
-      "away_full": "GC Zurich Valkyries",
-      "venue": "Colovray - Centre Sportif"
-    },
     {
       "date": "07/11/2026",
       "time": "11:30",
